@@ -1,19 +1,15 @@
 ---
 name: research-and-paper-writing-method
 description: >-
-  General research workflow methodology (generalized from published and public research-methodology sources):
-  literature search and grouping (检索式/search strings, reference-manager knowledge bases),
-  finding research gaps and topics, experimental troubleshooting and verification, paper and
-  introduction writing, pre-submission self-checks, grant and thesis-process proposal writing,
-  advisor/PI selection criteria, and research mindset tools. Use proactively when the user is:
-  starting a literature review or building a search string/knowledge base; looking for a research
-  gap or deciding a topic; designing or debugging an experiment; drafting or revising an introduction,
-  results, discussion or review; doing a final manuscript check; writing a funding proposal, thesis
-  proposal, progress report or research plan; choosing between candidate advisors/PIs; or feeling
-  stuck in research. Not for journal house-style formatting rules or general English-grammar instruction.
+  通用科研工作流方法（提炼自公开出版的科研方法论著作与公开研究方法资料）：文献检索与分组（检索式、
+  文献管理库）、找研究空白与选题、实验排错与验证、论文与引言写作、投稿前自查、基金与过程文档写作、
+  导师/PI 选择标准、科研心态工具。当用户在以下场景主动调用：开展文献调研或建立检索与知识库；寻找
+  研究空白或确定选题；设计或排查实验；起草或修改引言、结果讨论、综述；做投稿前最终检查；撰写基金
+  申请书、开题报告、中期报告或研究计划；在候选导师或 PI 之间做选择；研究受挫时。不适用于期刊格式排版
+  规则或一般英语语法指导。
 ---
 
-# Research & Paper-Writing Method（通用研究与论文写作方法）
+# 通用研究与论文写作方法
 
 本 skill 的内容提炼自公开出版的科研方法论著作与公开的研究方法资料，已去除所有具体案例、人物、机构与个人信息，只保留通用的方法框架、步骤、判断规则与检查清单。
 

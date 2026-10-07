@@ -1,4 +1,4 @@
-# Experimental Troubleshooting as Debugging
+# 实验排错即调试
 
 Source: 方法篇A 的第3章（实验研究）。该方法借鉴了软件调试的思路，并可迁移到实验科学。所有示例均为通用假设示例。
 
